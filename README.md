@@ -69,10 +69,7 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
   </a> 
   
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  
+
 </p>
 <div>
   
@@ -83,4 +80,4 @@
 </div>
   
   
- ![Snake animation](https://github.com/matheuskdev/matheuskdev/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/MatheusKDev/MatheusKDev/blob/output/github-contribution-grid-snake.svg)
