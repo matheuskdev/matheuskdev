@@ -80,5 +80,6 @@
 <img height="180em" 
      src="https://github-readme-stats.vercel.app/api?username=matheuskdev&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
+ 
   
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskdev&size_weight=0.5&count_weight=0.5)]
