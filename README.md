@@ -76,6 +76,6 @@
 <a href="https://github.com/matheuskdev">
 
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuskdev&show_icons=true&theme=transparent)  
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuskdev&show_icons=true&theme=transparent&size_weight=0.5&count_weight=0.5)  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskdev&layout=compact&size_weight=0.5&count_weight=0.5)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskdev&layout=compact&size_weight=0.5&count_weight=0.5)
