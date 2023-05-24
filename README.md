@@ -75,11 +75,7 @@
   
 <a href="https://github.com/matheuskdev">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskdev&layout=compact&langs_count=7"/>
 
-<img height="180em" 
-     src="https://github-readme-stats.vercel.app/api?username=matheuskdev&show_icons=true&include_all_commits=true&count_private=true"/>
-</div>
- 
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuskdev&show_icons=true&theme=transparent)  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskdev&size_weight=0.5&count_weight=0.5)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskdev&layout=compact&size_weight=0.5&count_weight=0.5)]
